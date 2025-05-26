@@ -8,7 +8,7 @@
 
 ## 📋 Project Overview
 
-This project is a direct continuation of the CMPT2400 NPRI Data Analysis project, where we initially processed and analyzed the National Pollutant Release Inventory (NPRI) dataset and merged it with newly available data for 2023. The NPRI is Canada's comprehensive public inventory tracking pollutant releases, disposals, and transfers across industries nationwide.
+This project is a direct continuation of the [CMPT2400 NPRI Data Analysis project](https://github.com/almasoriaw/canada-npri-data-preparation-cmpt2400.git), where we initially processed and analyzed the National Pollutant Release Inventory (NPRI) dataset and merged it with newly available data for 2023. The NPRI is Canada's comprehensive public inventory tracking pollutant releases, disposals, and transfers across industries nationwide.
 
 Building on that foundation, this advanced project applies sophisticated time series analysis and machine learning techniques to:
 
